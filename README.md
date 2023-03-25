@@ -4,7 +4,7 @@ GASで動くSlack用Chatbotです。
 
 以下、スクリプトプロパティに持たせるもの
 
-* CRYPT_KEYCRYPT_KEY：任意の文字列
+* CRYPT_KEY：任意の文字列
 * LOG_SPREADSHEET_ID：ContextManagerで使うためのスプレッドシートID
 * OPENAI_API_KEY：APIキーを入れてください
 * SLACK_ACCESS_TOKEN：トークンを入れてください
